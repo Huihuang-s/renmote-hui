@@ -1,2 +1,2 @@
-# renmote-hui
+# remote-hui
 First Remote repository
